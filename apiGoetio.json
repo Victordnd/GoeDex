@@ -1,0 +1,652 @@
+﻿{
+  "goetios":[
+  {
+  "id": 1,
+  "name": "Bael / Beelzebuth",
+  "desc": "O primeiro espírito é Bael ou Baal, é um rei que governa no leste, senhor da tempestade e da fecundidade. Seu name vem da palavra ba’l e significa “dono”, “senhor”. Este espírito fala atropeladamente e guarda o poder de torná-lo invisível. Ele reina sobre 66 legiões de espíritos infernais e manifesta-se sob variadas formas, às vezes como um homem, e às vezes de todas as formas possíveis de uma vez.",
+  "rank": "Rei",
+  "element": [ "Fogo" ] ,
+  "img": "img/card/01.png",
+  "simg": "img/Sigil/S01.png"
+  },
+  {
+  "id": 2,
+  "name": "Agares / Agaros",
+  "desc": "O segundo espírito é um duque chamado Agreas, Agaros ou Agares. Está sob a potência do leste e aparece na forma de um homem velho, montando em cima de um crocodilo e carregando um pássaro em cima de seu punho, no entanto revela-se suave na aparência. Ele tem o poder de percorrer rapidamente grandes distancias e retornar quando requisitado. Ensina todas as línguas ou dialetos presentemente. Ele também destrói dignidades temporais e espirituais, e causa tremores sísmicos. Era da ordem das Virtudes e comanda 31 legiões de espíritos.",
+  "rank": "Rei",
+  "element": [ "Fogo" ] ,
+  "img": "img/card/02.png",
+  "simg": "img/Sigil/S02.png"
+  },
+  {
+  "id": 3,
+  "name": "Vassago",
+  "desc": "O terceiro espírito é Vassago, um príncipe poderoso, sendo da mesma natureza que Agares. Possui uma boa natureza e sua função é declarar coisas passadas e futuras e descobrir todas as coisas escondidas ou perdidas. Comanda 26 legiões de espíritos, e este é seu selo.Rege confiança, fama, sucesso no jogo, prazer, assegurar popularidade/carisma, o aumento da saúde e vitalidade, cura, proteção, sucesso, poder mágico e riquezas.",
+   "rank": "Príncipe",
+  "element": [ "Fogo" ] ,
+  "img": "img/card/03.png",
+  "simg": "img/Sigil/S03.png"
+  },
+  {
+  "id": 4,
+  "name": "Samigina / Gamigin",
+  "desc": "O quarto espírito é Samigina ou Gamigin, um Grande Marquês. Aparece na forma de um cavalo ou de um burro pequeno, e toma ao pedido do mestre a aparência humana. Ele fala com uma voz rouca. Ele governa sobre 30 legiões inferiores. Ensina todas as ciências liberais, e transmite conhecimento sobre as Almas que morreram no esquecimento. Uma outra grafia é Gamygn.",
+  "rank": "Marquês",
+  "element": [ "Fogo" ] ,
+  "img": "img/card/04.png",
+  "simg": "img/Sigil/S04.png"
+  },
+  {
+  "id": 5,
+  "name": "Marbas / Barbas",
+  "desc": "O quinto espírito é Marbas ou Barbasda. É um grande Presidente que se manifesta primeiramente sob a forma de um grande leão, mas mais tarde, no pedido do mestre, ele toma forma humana. Ele responde corretamente todas as perguntas sobre coisas escondidas ou secretas. Ele cura e causa doenças. Por outro lado, concede grande sabedoria e conhecimento em Artes Mecânicas; e pode mudar a forma dos homens. Ele governa 36 legiões dos espíritos.",
+  "rank": "Presidente",
+  "element": [ "Fogo" ] ,
+  "img": "img/card/05.png",
+  "simg": "img/Sigil/S05.png"
+  },
+  {
+  "id": 6,
+  "name": "Valefar / Malephar",
+  "desc": "O sexto espírito é Valefor, Valefar ou Malephar. É um duque poderoso, e aparece na forma de um leão com cabeça de burro, gritando. É um espírito familiar bom, mas eventualmente rouba. Ele governa 10 legiões de espíritos. Seu selo é este, que deve ser preparado, sendo o espírito familiar ou não.",
+  "rank": "Duque",
+  "element": [ "Fogo" ] ,
+  "img": "img/card/06.png",
+  "simg": "img/Sigil/S06.png"
+  },
+  {
+  "id": 7,
+  "name": "Amon",
+  "desc": "O sétimo espírito é Amon. É um Marques de grande potência. Aparece como de um lobo com a cauda de uma serpente, vomitando flamas de fogo; mas no comando do mágico toma na forma de um homem com traços caninos e cabeça de um corvo; e também como um homem com uma cabeça de corvo ou coruja. Ele mostrará todas as coisas passadas e futuras. Ele reconcilia amizades entre amigos. Ele governa 40 legiões de espíritos.",
+  "rank": "Príncipe",
+  "element": [ "Fogo" ] ,
+  "img": "img/card/07.png",
+  "simg": "img/Sigil/S07.png"
+  },
+  {
+  "id": 8,
+  "name": "Barbatos",
+  "desc": "O oitavo espírito é Barbatos. É um grande duque; aparece quando o sol está em Sagitário, com quatro reis nobres e as suas companhias de tropas. Ele da compreensão da língua do canto dos pássaros, e das vozes de outras criaturas, tais como o ladrar dos cães. Ele quebra encantamentos que os magistas arrogam sobre tesouros escondidos. É da ordem das Virtudes, onde misteriosamente ele ainda permanece; e ele conhece todas as coisas passadas, e por vir, e concede amizades poderosas. Ele comanda 30 legiões de espíritos.",
+  "rank": "Duque",
+  "element": [ "Terra" ] ,
+  "img": "img/card/08.png",
+  "simg": "img/Sigil/S08.png"
+  },
+  {
+  "id": 9,
+  "name": "Paimon",
+  "desc": "O nono espírito nesta ordem é Paimon, um grande Rei, muito obediente a Lúcifer. Ele aparece na forma de um homem sentado em cima de um dromedário com uma coroa a mais gloriosa sobre a sua cabeça. É precedido por um séqüito de espíritos, como homens com trombetas e címbalos, e toda sorte de instrumentos musicais. Ele possui uma poderosa voz, e fala jorrando palavras em tal id que o mágico não pode compreende a menos que o puder compelir a obedecer.Este espírito pode ensinar todas as artes e ciências, além de coisas secretas. Descobre qualquer coisa que esteja sobre a terra ou sob as águas; e o que a mente é, e onde ela se encontra; ou algum outro desejo que o magista queira saber. Ele concede títulos e confirma os mesmos. Ele concede bons Familiares tanto como pode ensinar quaisquer artes. Deve ser esperado pelo oeste. É da ordem das Dominações. Chefia 200 legiões de espíritos, sendo parte deles da ordem dos anjos, e da outra das Potestades. Agora se quiseres chamar Paimon sozinho, deverá lhe fazer alguma oferenda; e atende por meio de dois reis chamados LABAL e ABALIM, e também por outros espíritos que sejam da ordem de Potestades, junto com 25 legiões. E aqueles espíritos que lhe são sujeitos não estão sempre com ele a menos que o magista os obrigue a isto.",
+  
+  "rank": "Rei",
+  "element": [ "Terra" ] ,
+  "img": "img/card/09.png",
+  "simg": "img/Sigil/S09.png"
+  },
+  {
+  "id": 10,
+  "name": "Buer",
+  "desc": "O décimo espírito é Buer, um grande presidente. Aparece como um Sagitário, quando o sol está passando pela constelação respectiva. Ensina a filosofia, moral e natural, e a arte da lógica, e também as virtudes de todas as ervas e plantas. Ele remedia os destemperos no homem, e lhe concede bons espíritos familiares. Governa 50 legiões de espíritos.",
+  "rank": "Rei",
+  "element": [ "Terra" ] ,
+  "img": "img/card/10.png",
+  "simg": "img/Sigil/S10.png"
+  },
+  {
+  "id": 11,
+  "name": "Gusoin / Gusayn",
+  "desc": "O décimo primeiro espírito em ordem é um grande e forte duque, chamado Gusion, Gusoin ou Gusayn. Aparece como um Xenopilus (Cyaenophallus). Mostra todas as coisas, passadas, presentes, e futuras, e demonstra e responde quaisquer questões que o magista venha a formular. Ele concilia e reconcilia amizades, e honras e títulos. Governa sobre 40 legiões de espíritos.",
+  "rank": "Duque",
+  "element": [ "Fogo" ] ,
+  "img": "img/card/11.png",
+  "simg": "img/Sigil/S11.png"
+  },
+  {
+  "id": 12,
+  "name": "Sitri / Bitru",
+  "desc": "O décimo segundo espírito é Sitri ou Bitru. É um príncipe e manifesta-se no início com asas de Grifo e cabeça de leopardo, mas após o comando do mestre e do Exorcismo ele toma forma humana, até mesmo agradável. Ele inflama homens e mulheres em amor; e os obriga a mostrarem-se despidos se assim for desejado. Ele comanda 60 legiões de espíritos.",
+  "rank": "Príncipe",
+  "element": [ "Terra" ] ,
+  "img": "img/card/12.png",
+  "simg": "img/Sigil/S12.png"
+  },
+  {
+  "id": 13,
+  "name": "Beleth / Byleth",
+  "desc": "O décimo terceiro espírito é chamado Beleth, Bileth, Bilet ou Byleth. É um rei poderoso e terrível. Ele parece um cavalo pálido cercado de trombetas e outros tipos dos instrumentos musicais. Tem no principio uma aparência furiosa; para muda-lo deve-se tomar de um bastão de avelã em sua mão, golpeando para os quartos sul e leste, traçando um triângulo, sem o Circulo, e comanda-lo então o obrigando pelo laço e cargo de espíritos que daqui por diante o acompanharão. E se ele não adentrar no triângulo, pelas ameaças, nem pelo recitar das ligações e os encantos, então se deve rende-lo em obediência e obriga-lo a vir, através do que é dito no Exorcismo. Contudo deve recebê-lo gentilmente porque é um grande rei, e homenageá-lo, como se faz diante dos os reis e dos príncipes. E com um anel de prata no dedo médio da mão esquerda mantida de encontro ao seu rosto, como eles fazem diante de AMAYMON. Beleth causa todo tipo de amor que pode haver entre homens e mulheres. É da ordem das potências, e governa 85 legiões de espíritos.",
+  "rank": "Duque",
+  "element": [ "Ar" ] ,
+  "img": "img/card/13.png",
+  "simg": "img/Sigil/S13.png"
+  },
+  {
+  "id": 14,
+  "name": "Leraje / Leraie",
+  "desc": "O décimo quarto espírito é chamado Leraje, Leraye ou Leraie. É um Marques de grande potência, mostrando-se qual um Arqueiro de manto verde, e carregando uma funda e uma aljava. Ele causa grandes batalhas e disputas; e traz a putrefação pelo ferimento que é feito com as setas por Arqueiros. Está sob os auspícios de Sagitário. Governa 30 legiões de espíritos.",
+  "rank": "Rei",
+  "element": [ "Ar" ] ,
+  "img": "img/card/14.png",
+  "simg": "img/Sigil/S14.png"
+  },
+  {
+  "id": 15,
+  "name": "Eligos / Eligor",
+  "desc": "O décimo quinto espírito em ordem é Eligos, Eligor ou Abigor, um grande duque, e se manifesta sob a forma de um cavaleiro gentil, carregando um lança, uma Insígnia, e uma serpente. Ele conhece coisas escondidas, e coisas que ainda não chegaram a acontecer; e sobre as guerras, e como os soldados se organizam. Ele causa o amor dos senhores e de pessoas de posição. Ele governa 60 legiões.",
+  "element": [ "Ar" ] ,
+  "img": "img/card/15.png",
+  "simg": "img/Sigil/S15.png"
+  },
+  {
+  "id": 16,
+  "name": "Zepar",
+  "desc": "O décimo sexto  espírito é Zepar  um grande duque, e aparece. Aparelhado com armas antigas, como um Soldado. Seu encargo é fazer com que as mulheres amem os homens e fiquem junto destes por amor. Ele também pode faze-las estéril. Governa 26 legiões de espíritos inferiores.",
+  "rank": "Duque",
+  "element": [ "Terra" ] ,
+  "img": "img/card/16.png",
+  "simg": "img/Sigil/S16.png"
+  },
+  {
+  "id": 17,
+  "name": "Botis",
+  "desc": "O décimo sétimo espírito é Botis, um grande presidente, e um Conde. Ele aparece primeiramente sob a forma de uma terrível víbora, e sob o comando do magista ele toma forma humana, tendo, contudo dentes enormes, chifres e portando uma espada afiada nas mãos. Ele revela todas as coisas passadas e futuras e reconcilia amigos e adversários. Comanda 60 legiões.",
+  "rank": "Conde",
+  "element": [ "Ar" ] ,
+  "img": "img/card/17.png",
+  "simg": "img/Sigil/S17.png"
+  },
+  {
+  "id": 18,
+  "name": "Bathin / Bathym",
+  "desc": "O décimo oitavo espírito é Bathin, Bathym, Mathim ou Marthim. É um duque poderoso e forte, e aparece como um homem alentado com a cauda de uma serpente, sentado em cima de um cavalo pardo. Conhece as virtudes das ervas e pedras preciosas, e pode transportar homens rapidamente de um país a outro. Ele chefia 30 legiões de espíritos.",
+  "rank": "Duque",
+  "element": [ "Ar" ] ,
+  "img": "img/card/18.png",
+  "simg": "img/Sigil/S18.png"
+  },
+  {
+  "id": 19,
+  "name": "Sallos / Saleos",
+  "desc": "O décimo nono espírito é Sallos, Saleos ou Zaleos. É um duque grande e poderoso, e surge na forma de um galante equitador sobre um crocodilo, com uma coroa ducal em sua cabeça, e com um ar pacífico. Ele causa o amor das mulheres aos homens, e dos homens às mulheres; governa 30 legiões de espíritos.",
+  "rank": "Duque",
+  "element": [ "Água" ] ,
+  "img": "img/card/19.png",
+  "simg": "img/Sigil/S19.png"
+  },
+  {
+  "id": 20,
+  "name": "Purson",
+  "desc": "O vigésimo espírito é Purson, um grande Rei. Sua aparência é comumente a de um homem com a cara de um leão, carregando uma víbora cruel em sua mão, e montando em cima de um urso. Vem acompanhado ao som de trombetas. Conhece todas as coisas escondidas, e pode descobrir tesouros, e diz todas as coisas do passado, presente e futuro. Pode fazer exame de um corpo humano ou aéreo, e responder corretamente todas as coisas terrenas e divinas, e referentes à Criação. Outorga bons espíritos familiares, e sob seu governo estão 22 legiões dos espíritos, em parte da ordem das virtudes e em parte da ordem dos tronos.",
+  "rank": "Rei",
+  "element": [ "Água" ] ,
+  "img": "img/card/20.png",
+  "simg": "img/Sigil/S20.png"
+  },
+  {
+  "id": 21,
+  "name": "Marax / Morax",
+  "desc": "O vigésimo primeiro espírito é Marax ou Morax. É um Conde e um Grande Presidente. Aparece como um Búfalo enorme com cabeça humana. Seu trabalho é instruir os sábios em astronomia, e todas ciências liberais restantes; também pode fornecer bons familiares, conhece as virtudes das ervas e das pedras preciosas. Comanda 30 legiões de espíritos.",
+  "rank": "Conde",
+  "element": [ "Água" ] ,
+  "img": "img/card/21.png",
+  "simg": "img/Sigil/S21.png"
+  },
+  {
+  "id": 22,
+  "name": "Ipos",
+  "desc": "O vigésimo segundo espírito é Ipos, Ipes, Aypeos ou Ayporor. É um Conde, e um príncipe poderoso, e surge na forma de um anjo com cabeça do leão, com pé de ganso e cauda de lebre. Ele conhece todas as coisas que se dão em qualquer espaço de tempo. Ele torna os homens espirituosos e audazes. Comanda 36 legiões de espíritos.",
+  "rank": "Conde",
+  "element": [ "Água" ] ,
+  "img": "img/card/22.png",
+  "simg": "img/Sigil/S22.png"
+  },
+  {
+  "id": 23,
+  "name": "Aym / Ain",
+  "desc": "O vigésimo terceiro espírito é Aym, Ain ou Aini. É um duque de grande poder. Ele aparece na forma de um homem de porte notável, mas com três cabeças; a primeira de uma serpente, a segunda como de um homem que tem duas estrelas em sua testa, e a terceira como uma vitela. Ele viaja em uma víbora, carregando um ferrete em sua mão. Ele faz o homem espirituoso de todas as maneiras, e dá respostas verdadeiras sobre assuntos confidenciais. Comanda 26 legiões de espíritos.",
+  "rank": "Marquês",
+  "element": [ "Ar" ] ,
+  "img": "img/card/23.png",
+  "simg": "img/Sigil/S23.png"
+  },
+  {
+  "id": 24,
+  "name": "Naberius / Cerberus",
+  "desc": "O vigésimo quarto espírito é Naberius, Cerberus, Cerebus ou Kereberus. É um marques valoroso, e se mostra na forma de um enorme cão preto de três cabeças e com pés de pássaro. Agitado sobre o círculo, ele fala sobre todas as artes e ciências mas especialmente da arte retórica. Ele restaura títulos e honrarias perdidas. Comanda 19 legiões de espíritos. Seu selo é este, devendo ser preparado como se deve saber.",
+  "rank": "Marquês",
+  "element": [ "Água" ] ,
+  "img": "img/card/24.png",
+  "simg": "img/Sigil/S24.png"
+  },
+  {
+  "id": 25,
+  "name": "Glasya-Labolas / Glacia-Labolas",
+  "desc": "O vigésimo quinto espírito é Glasya-Labolas, Glacia-Labolas, Glaysa, Caacrinolas ou Cassimolar. É um presidente e um Conde poderoso, e revela-se na forma de um cão com asas como um Grifo. Ministrando todas as artes e ciências em um instante, e causa derramamentos de sangue e insanidade. Ele ensina todas as coisas passadas e futuras. Se desejado ele causa afeição. Tem o poder da invisibilidade. Comanda 36 legiões de espíritos.",
+  "rank": "Conde",
+  "element": [ "Fogo" ] ,
+  "img": "img/card/25.png",
+  "simg": "img/Sigil/S25.png"
+  },
+  {
+  "id": 26,
+  "name": "Bune / Bime",
+  "desc": "O vigésimo sexto espírito é Bune, Bime ou Bim. É um forte duque, grande e poderoso. Ele aparece na forma de um dragão com três cabeças, uma como um cão, uma como um Grifo, e uma como um homem. Ele fala com uma voz elevada e comedida. Ele altera o lugar onde estão os mortos, e faz os espíritos que estejam sob seu comendo ascender acima dos sepulcros. Ele torna o homem rico, e o faz sábio e eloquente. Ele responde corretamente qualquer coisa que lhe for requisitado. Governa 30 legiões de espíritos.",
+  "rank": "Duque",
+  "element": [ "Fogo" ] ,
+  "img": "img/card/26.png",
+  "simg": "img/Sigil/S26.png"
+  },
+  {
+  "id": 27,
+  "name": "Ronove / Ronobe",
+  "desc": "O vigésimo sétimo espírito é Ronove ou Ronobe. Aparece como um monstro. Ele ensina a arte da retórica e concede bons servidores, e da o conhecimento dos dialetos, e favores de amigos ou inimigos. É um Marques e um grande Conde; comanda 19 legiões.",
+  "rank": "Marquês",
+  "element": [ "Fogo" ] ,
+  "img": "img/card/27.png",
+  "simg": "img/Sigil/S27.png"
+  },
+  {
+  "id": 28,
+  "name": " Berith / Bolfry",
+  "desc": "O vigésimo oitavo espírito em ordem, como Shlomo aponta, é nameado Berith, Bolfry ou Bofi. É um duque poderoso, grande, e terrível. Ele possui outros dois names que lhe foram dados em outras eras mais primitivas: BEALE, ou BEAL, e BOFRY ou BOLFRY. A parece na forma de um cavaleiro com roupa vermelha, montado um cavalo vermelho, e tem uma coroa do ouro na cabeça. Conhece o presente e o futuro. Tu empregaras uma jóia para chamá-lo adiante, um anel, como foi dito a respeito de Beleth. Tem o poder de tornar todos os metais em ouro. Pode conceder dignidades e honras, e pode confirmá-los ao homem segundo seu desejo. Ele fala fluente e sutilmente. Comanda 26 legiões de espíritos.",
+  "rank": "Duque",
+  "element": [ "Fogo" ] ,
+  "img": "img/card/28.png",
+  "simg": "img/Sigil/S28.png"
+  },
+  {
+  "id": 29,
+  "name": "Astaroth",
+  "desc": "O vigésimo nono espírito é Astaroth. Ele é um duque poderosíssimo, e aparece na forma de um anjo medonho, montado sobre a besta-dragão do inferno, com uma víbora na mão direita. É sábio não se aproximar muito dele a fim de evitar o fedor deletério que ele exala. O magista deve apontar-lhe com o anel ao que estará protegido. Conhece todos os segredos da Criação e responde questões sobre o passado, presente e futuro. Declarará prontamente a queda dos espíritos, se desejado, e a razão dela. Pode fazer os homens sábios em todas as ciências liberais. Reina sobre 40 legiões de espíritos.",
+  "rank": "Duque",
+  "element": [ "Terra" ] ,
+  "img": "img/card/29.png",
+  "simg": "img/Sigil/S29.png"
+  },
+  {
+  "id": 30,
+  "name": "Forneus / Eureur",
+  "desc": "O trigésimo espírito é Forneus, também chamado de Eureur. Um grande e poderoso Marques, e aparece na forma de uma besta marinha gigantesca. Ele ministra e torna os homens sábios em retórica. Ele torna os homens sábios e lhes ensina todas as línguas e dialetos. Ele torna os inimigos amáveis como amigos. Governa sobre 29 legiões constituídas em parte pelos Tronos e em parte pelos Anjos.",
+  "rank": "Marquês",
+  "element": [ "Fogo" ] ,
+  "img": "img/card/30.png",
+  "simg": "img/Sigil/S30.png"
+  },
+  {
+  "id": 31,
+  "name": "Foras",
+  "desc": "O trigésimo primeiro espírito é Foras. É um presidente poderoso, e manifesta-se na forma de um homem forte. Pode dar ao conhecimento dos homens as virtudes das jóias e ervas. Ele ensina as artes da lógica e todas as partes da ética. Se desejado ele torna os homens invisíveis, concede longevidade e eloquência. Pode descobrir tesouros e recuperar as coisas perdidas. Reina sobre 29 legiões dos espíritos.",
+  "rank": "Presidente",
+  "element": [ "Terra" ] ,
+  "img": "img/card/31.png",
+  "simg": "img/Sigil/S31.png"
+  },
+  {
+  "id": 32,
+  "name": "Asmodeus",
+  "desc": "O trigésimo segundo espírito é Asmoday ou Asmodeus. É um grande, forte e poderoso rei. Aparece com três cabeças, eventualmente a primeira é a de um Búfalo, a segunda como um homem, e a terceira de um bode; ele possui também a cauda de uma serpente, e de sua boca jorram flamas de fogo. Seus pés são como de um ganso. Ele senta-se sobre um dragão infernal, e trás uma bandeira em sua mão.  Asmoday é o preferido de Amaymon, e acima dele não existe nenhum outro. Quando for convocá-lo deve-se proceder com muito cuidado, pois Amaymon tentará iludi-lo. Asmoday concede o anel das Virtudes e ensina as artes aritméticas, astronomia, geometria e todos os ofícios manuais. Responde corretamente o que lhe seja requisitado. Torna também o magista invisível e revela os lugares onde existem tesouros ocultos os quais ele guarda. Como Amaymon ele governa 72 legiões de espíritos inferiores. AShMah-Devah ou Asmoday, ou Asmodeus foi o “Arquiteto”, segundo a Qabalah, do famoso templo de Shlomo, ou Salomão. Esta lenda nos afirma que Asmodeus foi aprisionado em correntes mágicas por Shlomo e impelido, talvez ameaçado por este sábio a revelar um segredo desconhecido até então; a existência e fonte de um mineral que permitia riscar a madeira como o diamante risca o vidro. É por isso que está escrito que no Templo de Shlomo não foi usado nenhum metal como pregos, serras etc e ele teria sido feito unicamente através de um engenhoso jogo de peças encaixadas e firmadas umas nas outras.",
+  "rank": "Rei",
+  "element": [ "Água" ] ,
+  "img": "img/card/32.png",
+  "simg": "img/Sigil/S32.png"
+  },
+  {
+  "id": 33,
+  "name": "Gaap",
+  "desc": "O trigésimo terceiro espírito é Gaap ou Goap. É um grande presidente grande e um poderoso príncipe. Ele aparece quando o sol estiver nos signos do sul, em uma forma humana, seguida de quatro grandes e poderosos reis, como se um guia para os conduzir. Seu trabalho é tornar os homens sensíveis ou ignorantes; como também fazê-los sábios em filosofia e ciências liberais. Pode causar o amor ou o ódio, também pode ensinar os ritos de consagração daquilo que esta sob o poder de seu soberano AMAYMON. Pode entregar familiares ao magista, e sabe perfeitamente das coisas do passado, presente e futuro. Pode transportar homens de um reino a outro rapidamente, ao simples desejo do magista. Governa 66 legiões da ordem das potestades.",
+  "rank": "Príncipe",
+  "element": [ "Terra" ] ,
+  "img": "img/card/33.png",
+  "simg": "img/Sigil/S33.png"
+  },
+  {
+  "id": 34,
+  "name": "Furfur",
+  "desc": "O trigésimo quarto espírito é Furfur ou Furtur. É um grande Conde, muito poderoso, aparecendo na forma de um cervo com uma cauda impetuosa. Nunca dirá a verdade senão compelido pelo triangulo. Assim sendo, ele tomará a forma angelical. Sua fala é potente. Também incitará o amor entre o homem e a mulher. Pode suscitar relâmpagos e trovões, explosões, e grandes tempestades. E responde todas as perguntas referentes ao segredo das coisas divinas caso seja comandado a fazê-lo. Governa 26 legiões de espíritos.",
+  "rank": "Conde",
+  "element": [ "Terra" ] ,
+  "img": "img/card/34.png",
+  "simg": "img/Sigil/S34.png"
+  },
+  {
+  "id": 35,
+  "name": "Marchosias",
+  "desc": "O trigésimo quinto espírito é Marchosias. É um grande Marques, muito poderoso, aparecendo primeiramente sob a forma de um lobo que tem as asas de Gryphon, e de uma serpente, regurgitando fogo de sua boca. Mas após um momento, ao comando do Magista toma a forma de um poderoso batedor. Era da ordem das Dominações. Ele governa 30 legiões dos espíritos. Segundo Shlomo, após 1.200 anos teve esperanças retornar até o Sétimo Trono.",
+  "rank": "Marquês",
+  "element": [ "Terra" ] ,
+  "img": "img/card/35.png",
+  "simg": "img/Sigil/S35.png"
+  },
+  {
+  "id": 36,
+  "name": "Stolas / Stolos",
+  "desc": "O trigésimo sexto espírito é Stolas ou Stolos. Sendo um grande e poderoso príncipe, aparece na forma um poderoso Corvo ante o magista; posteriormente ele toma a aparência de um homem. Ensina astronomia, a virtude das ervas e gemas preciosas. Governa 26 legiões.",
+  "rank": "Príncipe",
+  "element": [ "Terra" ] ,
+  "img": "img/card/36.png",
+  "simg": "img/Sigil/S36.png"
+  },
+  {
+  "id": 37,
+  "name": "Phenex",
+  "desc": "O Trigésimo sétimo espírito é o Marquês Phenex, Pheynix ou Fênix. Aparece na forma de um pássaro de fogo com voz de criança, cantando amavelmente diante do Magista, que não deve considerar isso, mas obrigá-lo a tomar forma humana. Então ele falará e ensinará todas as maravilhas das ciências. É um inexcedível poeta. E estará disposto a executar seus desejos. Também teve chances de regressar ao Sétimo Trono há 1.200 anos, segundo o sábio Shlomo. Governa 20 legiões de espíritos.",
+  "rank": "Marquês",
+  "element": [ "Ar" ] ,
+  "img": "img/card/37.png",
+  "simg": "img/Sigil/S37.png"
+  },
+  {
+  "id": 38,
+  "name": "Halphas",
+  "desc": "O trigésimo oitavo espírito é Halphas ou Halpas. É um grandioso Conde, e aparece na forma de um pombo selvagem. Ele fala com voz potente. Seu oficio é construir torres, e fornecer guerreiros. Comanda 26 legiões de espíritos.",
+  "rank": "Conde",
+  "element": [ "Ar" ] ,
+  "img": "img/card/38.png",
+  "simg": "img/Sigil/S38.png"
+  },
+  {
+  "id": 39,
+  "name": "Malphas",
+  "desc": "O trigésimo nono espírito é Malphas, Malpas, Malthas ou Malthous. Aparece primeiro como um corvo, mas depois tomará a forma humana ao pedido do Magista, e fala com uma voz rouca. É um presidente perigoso e poderoso. Pode construir casas e torres elevadas, e pode trazer ao conhecimento do magista os pensamentos dos inimigos. Pode fornecer bons familiares. Ele atende prontamente se houver algum sacrifício, mas deve-se ter cautela por que este é um espírito bastante traiçoeiro. Governa 40 legiões.",
+  "rank": "Presidente",
+  "element": [ "Ar" ] ,
+  "img": "img/card/39.png",
+  "simg": "img/Sigil/S39.png"
+  },
+  {
+  "id": 40,
+  "name": "Raum",
+  "desc": "O quadragésimo espírito é o Conde Raum, Raim ou Raym; aparece primeiramente na forma de um corvo, mas após o Comando do Magista ele toma a forma humana. Sua função é roubar tesouros, destruir cidades e honrarias dos homens, e dizer todas as coisas, do passado, presente e futuro; pode causar afeição entre amigos e inimigos. Governa 30 legiões.",
+  "rank": "Conde",
+  "element": [ "Ar" ] ,
+  "img": "img/card/40.png",
+  "simg": "img/Sigil/S40.png"
+  },
+  {
+  "id": 41,
+  "name": "Focalor",
+  "desc": "O quadragésimo primeiro espírito é Focalor, Forcalor ou Furcalor. É um duque poderoso e forte. Aparece na forma de um homem com cabeça de Griphon. Seu oficio é assassinar homens, e afogá-los nas águas, e naufragar navios da guerra, tem poder sobre os humores do mar; mas não ferirá nenhum homem ou coisa se for assim comandado pelo Magista. Também espera retornar ao sétimo trono após 1.000 anos. Governa 30 legiões.",
+  "rank": "Rei",
+  "element": [ "Ar" ] ,
+  "img": "img/card/41.png",
+  "simg": "img/Sigil/S41.png"
+  },
+  {
+  "id": 42,
+  "name": "Vepar",
+  "desc": "O quadragésimo segundo espírito é Vepar, Vephar ou Separ. É um grande Duque e aparece na forma de uma sereia. Seu oficio é governar as águas, e guiar navios de guerra; ao pedido do magista torna o mar tempestuoso ocultando os navios. Também aflige os homens com varíola e bexigas putrefatas causando fim à raça deles. Governa 29 legiões.",
+  "rank": "Duque",
+  "element": [ "Ar" ] ,
+  "img": "img/card/42.png",
+  "simg": "img/Sigil/S42.png"
+  },
+  {
+  "id": 43,
+  "name": "Sabnock",
+  "desc": "O quadragésimo terceiro espírito, como o rei Shlomo os comandou na arca de bronze, é chamado Sabnock, Savnok, Sabnach, Saburac ou Salmac. É um Marquês, poderoso, grande e forte, aparecendo na forma de um centurião armado, com cabeça de um leão, montando em um cavalo malhado. Seu oficio é construir torres, castelos e cidades elevadas, e equipá-los com Armas de guerra, etc. pode afligir os homens com a varíola. Ele empresta bons espíritos familiares ao Magista e comanda 50 legiões.",
+  "rank": "Marquês",
+  "element": [ "Água" ] ,
+  "img": "img/card/43.png",
+  "simg": "img/Sigil/S43.png"
+  },
+  {
+  "id": 44,
+  "name": "Shax",
+  "desc": "O quadragésimo quarto espírito é Shax, Scox, Chax, Shaz ou Shass. É um Marquês que aparece na forma de uma grande pomba de fogo, falando com uma voz potente, contudo sutil. Seu oficio é esvair o entendimento ou inteligência de homens ou mulheres; e entrar em recintos fechados. Se comandado concede cavalos ao pedido do Magista, ou qualquer outra coisa, mas deve primeiramente ser comandado sob o triângulo, ou outro espírito haverá de iludir o magista lhe narrando mentiras. Pode descobrir todas as coisas ocultas, desconhecidas aos maus espíritos. Eventualmente concede bons familiares. Governa 30 legiões.",
+  "rank": "Marquês",
+  "element": [ "Água" ] ,
+  "img": "img/card/44.png",
+  "simg": "img/Sigil/S44.png"
+  },
+  {
+  "id": 45,
+  "name": "Vine",
+  "desc": "O Quadragésimo quinto espírito é Vine ou Vinea. É um rei Conde; e aparece na forma de um leão, montado em cima de um cavalo preto, enrodilhando uma víbora em sua mão. Sua função é descobrir coisas ocultas, bruxas, magos, e os segredos do presente, passado e futuro. Ao comando do magista construirá torres, erguerá paredes de pedra. Comanda 30 legiões.",
+  "rank": "Conde",
+  "element": [ "Água" ] ,
+  "img": "img/card/45.png",
+  "simg": "img/Sigil/S45.png"
+  },
+  {
+  "id": 46,
+  "name": "Bifrons",
+  "desc": "O quadragésimo sexto espírito é Bifrons, Bifrous ou Bifrovsda . É um Conde, e aparece na forma de um monstro; após um comando ele toma aparência humana. Seu oficio é instruir os homens em geometria, astronomia e toas as ciências e artes, além de conhecimento sobre as pedras preciosas e as ervas e madeiras. Ele tem o poder de transportar coisas inanimadas de um lugar para outro; também manifesta luzes de velas em cima das sepulturas. Comanda 6 legiões.",
+  "rank": "Conde",
+  "element": [ "Água" ] ,
+  "img": "img/card/46.png",
+  "simg": "img/Sigil/S46.png"
+  },
+  {
+  "id": 47,
+  "name": "Vual",
+  "desc": "O quadragésimo sétimo espírito Vual, Uvuall, ou Voval. É um duque, grande, poderoso e potente; e aparece primeiro na forma de um poderoso dromedário, mas após o comando do Magista ele toma forma humana, ele fala a língua egípcia, mas não perfeitamente. Seu escritório deve obter o amor das mulheres, e os segredos do passado, presente e futuro. Ele também busca favores entre amigos e inimigos. Era da ordem das Potestades. Governa 37 legiões.",
+  "rank": "Duque",
+  "element": [ "Água" ] ,
+  "img": "img/card/47.png",
+  "simg": "img/Sigil/S47.png"
+  },
+  {
+  "id": 48,
+  "name": "Haagenti",
+  "desc": "O quadragésimo oitavo espírito é Haagenti, Hagenti, Hegenit, ou Hagenith. É um presidente aparecendo na forma de búfalo alado e tomando forma humana ao comando do Magista. Sua função é fazer homens sábios, e instrui-los em coisas sobre os mares e oceanos; também Transmuta todos os metais ordinários em ouro e o vinho em água e vice versa. Governa 33 legiões de espíritos.",
+  "rank": "Presidente",
+  "element": [ "Água" ] ,
+  "img": "img/card/48.png",
+  "simg": "img/Sigil/S48.png"
+  },
+  {
+  "id": 49,
+  "name": "Crocell",
+  "desc": "O quadragésimo nono espírito é Crocell, Procel, Crokel, ou Pucel. Ele aparece na forma de um anjo. É um duque Grande e forte, falando misticamente sobre coisas ocultas. Ensina geometria e ciências liberais. Ao comando do Magista, produzirá grande Tormenta grande como o Rumor de muitas águas, embora não haja nada. Conhece termas e banhos quentes. Estava da ordem de Potestades, ou de potências, antes que da queda, como declarou ao rei Salomão. Governa 48 legiões.",
+  "rank": "Duque",
+  "element": [ "Fogo" ] ,
+  "img": "img/card/49.png",
+  "simg": "img/Sigil/S49.png"
+  },
+  {
+  "id": 50,
+  "name": "Furcas",
+  "desc": "O quinquagésimo espírito é Furcas. É um cavaleiro, e aparece na forma de um homem velho sádico com barbas longas e chifres, montando um cavalo pardo malhado, com uma arma afiada em sua mão. Ensina as artes da filosofia, da astrologia, retórica, lógica, Aromancia, e da Piromancia , em todas as suas partes, perfeitamente. Comanda 20 legiões de espíritos.",
+  "rank": "Cavaleiro",
+  "element": [ "Fogo" ] ,
+  "img": "img/card/50.png",
+  "simg": "img/Sigil/S50.png"
+  },
+  {
+  "id": 51,
+  "name": "Balam",
+  "desc": "O quinquagésimo primeiro espírito é Balam, Balaam, ou Balan. É um rei terrível, grande e poderoso. Ele aparece com três cabeças: a primeira é de um Búfalo; a segunda é como aquele de um homem; a terceira é um bode. Ele possui a cauda de uma serpente, e olhos flamejantes. Ele viaja em cima de um urso furioso, e carrega um falcão em seu punho. Ele fala com voz rouca e adivinha o passado etc. ele pode tornar os homens invisíveis e também amáveis. Governa 40 legiões.",
+  "rank": "Rei",
+  "element": [ "Fogo" ] ,
+  "img": "img/card/51.png",
+  "simg": "img/Sigil/S51.png"
+  },
+  {
+  "id": 52,
+  "name": "Alloces",
+  "desc": "O quinquagésimo segundo espírito é Alloces, Allocer, Allocen, Aloces, ou Alloien. Ele um duque, grande, poderoso, e forte, aparecendo montado sobre um grande cavalo, qual um cavaleiro. Tem a aparência de um leão vermelho com olhos flamejantes. Seu discurso é rouco e muito extenso. Ensina astronomia e ciências liberais. Ele concede bons familiares; governa 36 legiões.",
+  "rank": "Presidente",
+  "element": [ "Água" ] ,
+  "img": "img/card/52.png",
+  "simg": "img/Sigil/S52.png"
+  },
+  {
+  "id": 53,
+  "name": "Camio",
+  "desc": "O quinquagésimo terceiro espírito é Caim, ou Camio. É um grande presidente, e aparece na forma de uma ave, mas mais tarde toma forma de um homem que carrega em sua a mão uma espada afiada. Ele demonstra suas respostas através de cinzas ardentes, ou carvões acesos em meio ao fogo. É um ótimo Argumentador. Seu oficio é dar aos homens a compreensão do canto de todos os pássaros, do mugido dos bois, do ladrar dos cães, e todas criaturas restantes; e também da voz das águas. Conhece e fala sobre o futuro. Era da ordem dos Anjos, mas agora governa 30 legiões infernais.",
+  "rank": "Presidente",
+  "element": [ "Fogo" ] ,
+  "img": "img/card/53.png",
+  "simg": "img/Sigil/S53.png"
+  },
+  {
+  "id": 54,
+  "name": "Murmur",
+  "desc": "O quinquagésimo quarto espírito é chamado Murmur, Murmus, ou Murmux. É um grande Conde-Duque, se manifesta como um guerreiro em cima de um Gryphon, com uma coroa ducal sobre sua cabeça. Seus ministros o precedem sob o som de trombetas. Seu oficio é ensinar perfeitamente a filosofia, e confinar almas falecidas para vir até o Magista para responder duas perguntas quaisquer conforme o desejo. Era parte da ordem dos Tronos, e em parte dos Anjos. Governa 30 legiões.",
+  "rank": "Conde",
+  "element": [ "Fogo" ] ,
+  "img": "img/card/54.png",
+  "simg": "img/Sigil/S54.png"
+  },
+  {
+  "id": 55,
+  "name": "Orobas",
+  "desc": "O quinquagésimo quinto espírito é Orobas. É um príncipe grande e poderoso, aparecendo no início como um cavalo, mas depois assume forma humana. Seu oficio é mostrar o passado o presente e o futuro. Também distribui e confirma muitas honrarias e o favor dos amigos e dos inimigos. Responde corretamente acerca da Criação e da Divindade. Sendo bastante fiel ao Magista, este não sofrerá nenhum mal de espírito algum. Governa 20 legiões.",
+  "rank": "Príncipe",
+  "element": [ "Terra" ] ,
+  "img": "img/card/55.png",
+  "simg": "img/Sigil/S55.png"
+  },
+  {
+  "id": 56,
+  "name": "Gremory",
+  "desc": "O quinquagésimo sexto espírito é Gremory, Gomory, Gemory, ou Gamori. É um duque Forte e poderoso, e aparece na forma de uma mulher muito bonita, com a Coroa de uma duquesa amarrada sobre sua cintura, e montada sobre um grande camelo. Obtém o amor das mulheres novas e velhas e conhece o presente, o passado e o futuro. Comanda 26 legiões.",
+  "rank": "Duque",
+  "element": [ "Terra" ] ,
+  "img": "img/card/56.png",
+  "simg": "img/Sigil/S56.png"
+  },
+  {
+  "id": 57,
+  "name": "Ose",
+  "desc": "O quinquagésimo setimo espírito é Ose, Oso, ou Vosa. É um presidente, e aparece como um leopardo, mas depois toma forma humana. Ensina ciências liberais, e conhece os segredos Divinos; pode também mudar a forma do Magista segundo a sua vontade. Governa 30 legiões de espíritos.",
+  "rank": "Presidente",
+  "element": [ "Terra" ] ,
+  "img": "img/card/57.png",
+  "simg": "img/Sigil/S57.png"
+  },
+  {
+  "id": 58,
+  "name": "Avnas",
+  "desc": "O quinquagésimo oitavo espírito é Amy, ou Avnas. É um presidente, e aparece primeiramente na forma de uma chama flamejante e posteriormente assumindo forma humana, ensina astrologia e todas as ciências liberais; concede bons espíritos familiares e descobre tesouros. Governa 36 legiões.",
+  "rank": "Conde",
+  "element": [ "Terra" ] ,
+  "img": "img/card/58.png",
+  "simg": "img/Sigil/S58.png"
+  },
+  {
+  "id": 59,
+  "name": "Orias",
+  "desc": "O quinquagésimo nono espírito é Orias, ou Oriax. É um grande Marques, e aparece na forma de um leão, montando um belígero ginete, com cauda de uma serpente; e ele segura na mão direita um feixe de serpentes. Seu trabalho é ensinar as Virtudes das estrelas, e sobre as casas dos planetas, e como compreender seus virtudes. Ele também transforma homens, e ele concede honrarias e dignidades, Prelaturas, e confirma-as; também traz o favor dos amigos e inimigos. Governa 30 legiões.",
+  "rank": "Marquês",
+  "element": [ "Terra" ] ,
+  "img": "img/card/59.png",
+  "simg": "img/Sigil/S59.png"
+  },
+  {
+  "id": 60,
+  "name": "Vapula",
+  "desc": "O Sexagésimo espírito é Vapula, ou Naphula. É um grandioso Duque, poderoso e forte; aparece na forma de um leão com asas de Gryphon. Seu oficio é tornar os homens exímios em quaisquer ofícios manuais, também na filosofia, e outras ciências. Governa 36 legiões de espíritos.",
+  "rank": "Duque",
+  "element": [ "Terra" ] ,
+  "img": "img/card/60.png",
+  "simg": "img/Sigil/S60.png"
+  },
+  {
+  "id": 61,
+  "name": "Zagan",
+  "desc": "O Sexagésimo primeiro espírito é Zagan, ou Zagam. É um rei e um grande presidente, aparecendo como um Touro alado e depois, se requisitado, sob a forma humana. Torna os homens amáveis. Pode tornar o vinho na água, e o sangue no vinho, e vice versa. Pode transmutar todos os metais em moeda corrente. Pode mesmo fazer tolos os sábios. Governa 33 legiões.",
+  "rank": "Rei",
+  "element": [ "Ar" ] ,
+  "img": "img/card/61.png",
+  "simg": "img/Sigil/S61.png"
+  },
+  {
+  "id": 62,
+  "name": "Valac",
+  "desc": "O Sexagésimo segundo espírito é Valac, Volac, Valak, Ualac. É um presidente Poderoso e grande, e aparece como uma criança com as asas do anjo, montando em um dragão de duas cabeças. Sua função é descobrir tesouros ocultos e revelar víboras e esconderijos de ofídios que trará até o Magista se desejado. Governa 38 legiões.",
+  "rank": "Presidente",
+  "element": [ "Ar" ] ,
+  "img": "img/card/62.png",
+  "simg": "img/Sigil/S62.png"
+  },
+  {
+  "id": 63,
+  "name": "Andras",
+  "desc": "O Sexagésimo terceiro espírito é Andras. É um Marquês que aparece na forma de um anjo com a cabeça de um mocho extremamente negro, montando em cima de um lobo preto, e tem uma espada afiada e brilhante sobre os ombros. Sua função é semear discórdias. Caso o Magista não tenha cautela será imolado junto com seus companheiros ou assistentes. Comanda 30 legiões.",
+  "rank": "Marquês",
+  "element": [ "Fogo" ] ,
+  "img": "img/card/63.png",
+  "simg": "img/Sigil/S632.png"
+  },
+  {
+  "id": 64,
+  "name": "Haures",
+  "desc": "O Sexagésimo quarto espírito é Haures, Flauros, Hauras, ou Havres. É um grande Duque, e aparece no início como um leopardo, poderoso, terrível e possante, mas após o comando do Magista, ele toma a forma humana, com olhos flamejantes e impetuosos, e uma terrível fisionomia. Ele responde corretamente todas as coisas presentes, passadas e futuras. Mas se não for comandado no triângulo, enganará o magista fazendo-o confundir as marcas do tempo; também versa sobre o plano da criação do mundo, e da Divindade, e de como os outros espíritos caíram. Queima e destrói os inimigos do Magista se este assim desejar. Também não será afligido por nenhum outro espírito de maneira alguma; governa 36 legiões.",
+  "rank": "Duque",
+  "element": [ "Ar" ] ,
+  "img": "img/card/64.png",
+  "simg": "img/Sigil/S64.png"
+  },
+  {
+  "id": 65,
+  "name": "Andrealphus",
+  "desc": "O Sexagésimo quinto espírito é Andrealphus ou Andreafos. É um Marques poderoso aparecendo primeiramente dentro na forma de um Pavão, e fazendo muito barulho. Mas após um momento ele toma na forma humana. Pode ensinar a geometria perfeitamente. Ele torna os homens muito sutis nisso, e também em todas as coisas que pertencem a Mensuração ou Astronomia. Pode tornar um homem semelhante a um pássaro. Governa 30 legiões.",
+  "rank": "Marques",
+  "element": [ "Terra" ] ,
+  "img": "img/card/65.png",
+  "simg": "img/Sigil/S65.png"
+  },
+  {
+  "id": 66,
+  "name": "Cimeies",
+  "desc": "O Sexagésimo sexto espírito é Cimeies, Cimeries, Cimejes, ou Kimaris. É um Marques, poderoso, grande, forte e prestigioso, aparecendo sobre um fogoso Corcel negro, qual um valoroso guerreiro. Ele comanda todos os espíritos nas partes de África. Pode ensinar perfeitamente a gramática, lógica, Retórica, e descobrir as coisas perdidas ou tesouros ocultos. Governa 20 legiões infernais.",
+  "rank": "Marques",
+  "element": [ "Ar" ] ,
+  "img": "img/card/66.png",
+  "simg": "img/Sigil/S66.png"
+  },
+  {
+  "id": 67,
+  "name": "Andusias",
+  "desc": "O Sexagésimo setimo espírito é Amduscias, Amdusias, ou Amdukias. É um duque Grande e forte, aparecendo no início como um Unicórnio, mas ao pedido do Magista ele muda na forma humana, soando trombetas, e toda a maneira dos instrumentos musicais logo começam a ser ouvidos. Também pode inclinar e curvar arvores de acordo com o desejo do Magista. Fornece ótimos familiares e governa 29 legiões.",
+  "rank": "Duque",
+  "element": [ "Ar" ] ,
+  "img": "img/card/67.png",
+  "simg": "img/Sigil/S67.png"
+  },
+  {
+  "id": 68,
+  "name": "Belial",
+  "desc": "O Sexagésimo oitavo espírito é BELIAL. É um rei poderoso e foi criado em seguida após LUCIFER. Ele aparece na forma de dois anjos formosos que se sentam em uma Carruagem do fogo. Ele fala com uma voz graciosa, e logo declara que caiu indignamente, e que ocupava o posto que pertencia a Michael(?), e outros anjos do Éden. Sua função é distribuir cargos elevados e causar o favor dos amigos e inimigos. Ele concede espíritos familiares excelentes e reina sobre 50 legiões. Só responde corretamente as perguntas se o Magista lhe oferecer algum sacrifício ou similar. Mas então ele tentará ludibria-lo, a menos que seja obrigado por alguma Potencia Divina.",
+  "rank": "Rei",
+  "element": [ "Água" ] ,
+  "img": "img/card/68.png",
+  "simg": "img/Sigil/S68.png"
+  },
+  {
+  "id": 69,
+  "name": "Decarabia",
+  "desc": "O sexagésimo nono espírito é o Marques Decarabia. Ele aparece na forma de uma estrela em um Pentáculo no início; mas depois, ao comando do Magista, toma a feições humanas. Pode descobrir as virtudes dos pássaros e gemas preciosas e pode fazer as moscas se tornarem semelhante a pássaros, cantando e bebendo água como pássaros verdadeiros. Governa 30 legiões.",
+  "rank": "Marquês",
+  "element": [ "Água" ] ,
+  "img": "img/card/69.png",
+  "simg": "img/Sigil/S69.png"
+  },
+  {
+  "id": 70,
+  "name": "Seere",
+  "desc": "O heptagésimo espírito é Seere, Sear, ou Seir. É um príncipe poderoso sob a potencia de AMAYMON, rei do leste. Ele aparece na forma de um homem bonito, montando em cima de um cavalo alado. Sua função é ir e vir a fim de trazer abundância de coisas rapidamente. Percorre a terra num piscar de olhos. Relata sobre coisas perdidas, escondidas, tesouros etc… É de natureza boa e indiferente, sempre disposto a executar qualquer coisa que o Magista deseje. Governa 26 legiões de espíritos.",
+  "rank": "Príncipe",
+  "element": [ "Água" ] ,
+  "img": "img/card/70.png",
+  "simg": "img/Sigil/S70.png"
+  },
+  {
+  "id": 71,
+  "name": "Dantalion",
+  "desc": "O heptagésimo primeiro espírito é Dantalion, ou Dantalian. É um duque grande e poderoso, aparecendo na forma de homem com fisionomias conhecidas, de vários homens e mulheres; ele traz um livro em sua mão direita. Sua tarefa é ensinar todas as artes e algumas ciências; e declarar alguns conselhos secretos; transmitir o conhecimento dos pensamentos de todos os homens e mulheres e também como mudá-los. Pode causar o amor, e mostra o Similitude de toda pessoa, revelando por meio de uma visão, ainda que esteja em qualquer parte do mundo. Ele governa 36 legiões.",
+  "rank": "Duque",
+  "element": [ "Água" ] ,
+  "img": "img/card/71.png",
+  "simg": "img/Sigil/S71.png"
+  },
+  {
+  "id": 72,
+  "name": "Andromalius",
+  "desc": "O heptagésimo segundo espírito em ordem é nameado Andromalius. É um Conde, grande e poderoso, aparecendo na forma de um homem que prende uma serpente grande em sua mão. Sua tarefa consiste trazer os ladrões de volta assim como o produto dos furtos que este executou; assim como descobrir todos os indivíduos violentos e os traidores e puni-los e descobrir os tesouros ocultos. Ele governa 36 legiões dos espíritos.",
+  "rank": "Conde",
+  "element": [ "Ar " ] ,
+  "img": "img/card/72.png",
+  "simg": "img/Sigil/S72.png"
+  }
+  ]
+}
