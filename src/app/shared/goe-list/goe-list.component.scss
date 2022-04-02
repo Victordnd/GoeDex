@@ -1,0 +1,57 @@
+@import '../../../config-scss/ren-calc.scss';
+:host {
+  display: flex;
+  justify-content: space-between;
+  .goetio {
+    display: flex;
+    background: var(--branco);
+
+    width: calc(49% - 40px );
+    height: ren-calc(157);
+    padding: ren-calc(20);
+
+    border-radius: ren-calc(10);
+    &_status {
+      h2 {
+        font-size: ren-calc(22);
+        font-style: italic;
+        font-weight: 700;
+        margin-bottom: ren-calc(10);
+    }
+    ul{
+      display: flex;
+      flex-direction: column;
+      li{
+        background: var(--cinza) ;
+        font-size: ren-calc(10) ;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        border-radius: ren-calc(50);
+        width: ren-calc(60);
+        margin-bottom: ren-calc(5);
+      }
+    }
+  }
+  &_image{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: ren-calc(90);
+    width: ren-calc(110);
+
+    right: ren-calc(20);
+    bottom: ren-calc(20);
+
+    background: url(../../../assets/img/siggil.png);
+
+    img{
+      width: ren-cal(80);
+    }
+  }
+}
+}
