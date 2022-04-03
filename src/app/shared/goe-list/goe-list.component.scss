@@ -6,32 +6,33 @@
     display: flex;
     background: var(--branco);
 
-    width: calc(49% - 40px );
-    height: ren-calc(157);
-    padding: ren-calc(20);
+    width: calc(41% - 20px );
+    height: ren-calc(165);
+    padding: ren-calc(60);
 
-    border-radius: ren-calc(10);
-    &_status {
+    border-radius: ren-calc(30);
+  &_status {
       h2 {
-        font-size: ren-calc(22);
+        font-size: ren-calc(32);
         font-style: italic;
         font-weight: 700;
-        margin-bottom: ren-calc(10);
-    }
-    ul{
+        margin-bottom: ren-calc(40);
+        }
+      ul{
       display: flex;
       flex-direction: column;
+
       li{
         background: var(--cinza) ;
-        font-size: ren-calc(10) ;
+        font-size: ren-calc(18) ;
 
         display: flex;
         justify-content: center;
         align-items: center;
 
-        border-radius: ren-calc(50);
-        width: ren-calc(60);
-        margin-bottom: ren-calc(5);
+        border-radius: ren-calc(60);
+        width: ren-calc(80);
+        margin-bottom: ren-calc(30);
       }
     }
   }
@@ -41,16 +42,14 @@
     align-items: center;
     justify-content: center;
 
-    height: ren-calc(90);
-    width: ren-calc(110);
+    height: ren-calc(167);
+    width: ren-calc(550);
 
     right: ren-calc(20);
     bottom: ren-calc(20);
-
-    background: url(../../../assets/img/siggil.png);
-
     img{
       width: ren-cal(80);
+
     }
   }
 }
